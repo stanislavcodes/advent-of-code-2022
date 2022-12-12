@@ -6,8 +6,11 @@ import { a as day3a } from './day3/a.js';
 import { b as day3b } from './day3/b.js';
 import { a as day4a } from './day4/a.js';
 import { b as day4b } from './day4/b.js';
+import { a as day5a } from './day5/a.js';
+import { b as day5b } from './day5/b.js';
 
 console.log(`Day 1: ${day1a}, ${day1b}`);
 console.log(`Day 2: ${day2a}, ${day2b}`);
 console.log(`Day 3: ${day3a}, ${day3b}`);
 console.log(`Day 4: ${day4a}, ${day4b}`);
+console.log(`Day 5: ${day5a}, ${day5b}`);
