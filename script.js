@@ -15,11 +15,11 @@ import { b as day7b } from './day7/b.js';
 import { a as day8a } from './day8/a.js';
 import { b as day8b } from './day8/b.js';
 
-// console.log(`Day 1: ${day1a}, ${day1b}`);
-// console.log(`Day 2: ${day2a}, ${day2b}`);
-// console.log(`Day 3: ${day3a}, ${day3b}`);
-// console.log(`Day 4: ${day4a}, ${day4b}`);
-// console.log(`Day 5: ${day5a}, ${day5b}`);
-// console.log(`Day 6: ${day6a}, ${day6b}`);
-// console.log(`Day 7: ${day7a}, ${day7b}`);
+console.log(`Day 1: ${day1a}, ${day1b}`);
+console.log(`Day 2: ${day2a}, ${day2b}`);
+console.log(`Day 3: ${day3a}, ${day3b}`);
+console.log(`Day 4: ${day4a}, ${day4b}`);
+console.log(`Day 5: ${day5a}, ${day5b}`);
+console.log(`Day 6: ${day6a}, ${day6b}`);
+console.log(`Day 7: ${day7a}, ${day7b}`);
 console.log(`Day 8: ${day8a}, ${day8b}`);
